@@ -1,0 +1,50 @@
+
+ 
+************************************************************
+ TSM BACKUP STATUS >> XYZ00041           
+************************************************************
+
+Scheduled Start          Actual Start             Schedule Name     Node Name         Status   
+--------------------     --------------------     -------------     -------------     ---------
+06.02.2014 18:00:00      06.02.2014 18:00:05      INCR_INTEL        XYZ00047          Completed
+06.02.2014 18:00:00      06.02.2014 19:04:24      INCR_INTEL        XYZ00046          Completed
+06.02.2014 18:00:00      06.02.2014 18:00:04      INCR_INTEL        XYZ00115          Completed
+06.02.2014 18:00:00      06.02.2014 18:12:53      INCR_INTEL        XYZ00093          Completed
+06.02.2014 18:00:00      06.02.2014 18:33:23      INCR_INTEL        XYZ00094          Completed
+06.02.2014 18:00:00      06.02.2014 19:19:20      INCR_INTEL        XYZ00091          Failed 12
+06.02.2014 18:00:00      06.02.2014 19:32:05      INCR_INTEL        XYZ00092          Failed 12
+06.02.2014 18:00:00      06.02.2014 18:00:05      INCR_INTEL        XYZPD012          Failed 12
+06.02.2014 18:00:00      06.02.2014 21:01:29      INCR_INTEL        XYZDV015          Restarted
+06.02.2014 18:00:00                               INCR_INTEL        XYZ00161          Missed   
+06.02.2014 18:00:00      06.02.2014 20:02:46      INCR_INTEL        XYZDV218          Completed
+06.02.2014 18:00:00      06.02.2014 18:55:07      INCR_INTEL        XYZDV219          Completed
+06.02.2014 18:00:00      06.02.2014 20:58:12      INCR_INTEL        XYZPD090          Completed
+06.02.2014 18:00:00      06.02.2014 19:36:26      INCR_INTEL        XYZDV158          Completed
+06.02.2014 18:00:00                               INCR_INTEL        XYZMAN010         Missed   
+06.02.2014 18:00:00      06.02.2014 18:29:20      INCR_INTEL        XYZPD046          Failed 12
+06.02.2014 23:45:00                               INTEL_INCR_D      NJR10001          Missed   
+06.02.2014 23:45:00                               INTEL_INCR_D      XYZ00028          Missed   
+06.02.2014 23:45:00                               INTEL_INCR_D      XYZ00029          Missed   
+06.02.2014 23:45:00      07.02.2014 00:57:51      INTEL_INCR_D      XYZ00059          Completed
+06.02.2014 23:45:00      07.02.2014 00:16:44      INTEL_INCR_D      XYZPD001          Started  
+06.02.2014 23:45:00      07.02.2014 00:29:45      INTEL_INCR_D      XYZPD002          Started  
+06.02.2014 23:45:00      06.02.2014 23:45:08      INTEL_INCR_D      XYZPD003          Started  
+06.02.2014 23:45:00      07.02.2014 00:37:18      INTEL_INCR_D      XYZPD005          Started  
+06.02.2014 23:45:00      07.02.2014 01:14:14      INTEL_INCR_D      XYZPD006          Started  
+06.02.2014 23:45:00                               INTEL_INCR_D      XYZPD007          Missed   
+06.02.2014 23:45:00                               INTEL_INCR_D      XYZPD009          Missed   
+06.02.2014 23:45:00                               INTEL_INCR_D      XYZPD142          Missed   
+06.02.2014 23:45:00                               INTEL_INCR_D      XYZPD100          Missed   
+06.02.2014 23:45:00      06.02.2014 23:45:04      INTEL_INCR_D      XYZPD115          Completed
+06.02.2014 23:45:00      07.02.2014 00:28:05      INTEL_INCR_D      XYZPD070          Completed
+06.02.2014 23:45:00      07.02.2014 00:24:47      INTEL_INCR_D      XYZPD071          Completed
+06.02.2014 23:45:00                               INTEL_INCR_D      XYZPD072          Missed   
+06.02.2014 23:45:00                               INTEL_INCR_D      XYZPD073          Missed   
+06.02.2014 23:45:00                               INTEL_INCR_D      XYZPD074          Missed   
+06.02.2014 23:45:00      06.02.2014 23:45:07      INTEL_INCR_D      XYZPD052          Completed
+06.02.2014 23:45:00      07.02.2014 01:08:25      INTEL_INCR_D      XYZPD062          Completed
+06.02.2014 23:45:00                               INTEL_INCR_D      XYZPD222          Missed   
+06.02.2014 23:45:00      07.02.2014 00:53:47      INTEL_INCR_D      XYZPD063          Completed
+06.02.2014 23:45:00                               INTEL_INCR_D      XYZPD223          Missed   
+06.02.2014 23:45:00                               INTEL_INCR_D      XYZPD065          Missed   
+
